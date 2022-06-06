@@ -1,4 +1,11 @@
-Same steps are used for IMS bearing dataset and CWRU ball bearing dataset
+- Same steps are used for IMS bearing dataset and CWRU ball bearing dataset.
+- Use colab or Anaconda and Run this step in the given order seprated by CELL/STEPS(as used in anaconda or google colab)
+- Each step should be run in order to get correct result.
+- Use python 3.2 or above
+- Better to use google colab or ananconda
+- folder_in_which_your_py_is_placed should be replaced by folder path in which Py file is placed
+- system requirement for Smooth running and fast execution (16 GB/ I7 )
+- For any doubt mail me at (gauravkr0071@gmail.com)
 
 ```py
 STEP 1:-
