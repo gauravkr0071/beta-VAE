@@ -1,3 +1,5 @@
+Same steps are used for IMS bearing dataset and CWRU ball bearing dataset
+
 ```py
 STEP 1:-
 Dependencies:-
